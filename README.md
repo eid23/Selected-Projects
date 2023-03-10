@@ -8,4 +8,4 @@ This repositary contains selected projects prepared by Elena Dobrolyubova. Some 
 | Project Title | Description | Instruments Used| 
 | :---------------------- | :---------------------- | :---------------------- |
 | Segmenting Bank Clients | Analyzing the data on bank clients, defining client segments, identifying churn reasons based on statistical tests, developing recommendations for retaining bank clients| *pandas, math, numpy, plotly, matplotlib, scipy, seaborn, requests* |
-|  A/B Test Project | Reviewing the correctness of A/B testing project and interpreting its results | *pandas, numpy, scipy, matplotlib, math, seaborn and plotly*|
+|  A/B Test Project | Reviewing the correctness of A/B testing project and interpreting its results. The objective of A/B test was to measure the influence of new recommendation system on key user conversion metrics. | *pandas, numpy, scipy, matplotlib, math, seaborn and plotly*|
