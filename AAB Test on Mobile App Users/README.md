@@ -6,6 +6,6 @@ The *dataset* included data on over 244K users of mobile app, including event na
 
 To implement the project I used *pandas, math, matplotlib, numpy, scipy*.
 
-The project entail computation of conversion metrics and A/A/B analysis of introduction of new fonts into the app. The results of A/A/B analysis suggest there is no significant difference in conversion rates between experimental and control groups.
+The project entailed computation of conversion metrics and A/A/B analysis of introduction of new fonts into the app. The results of A/A/B analysis suggest there is no significant difference in conversion rates between experimental and control groups.
 
 Project was implemented as part of Yandex Practicum Training in 2022.
